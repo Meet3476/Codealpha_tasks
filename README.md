@@ -45,8 +45,7 @@ Created the foundational structure and layout for a modern application interface
 Converted the wireframes into polished high-fidelity screens with modern typography, attractive color palettes, spacing systems, and UI consistency.
 
 - **Figma File:** View Task 2 Here
-- **Preview:** Full UI design screenshots included.
-
+- **Preview:** https://www.figma.com/design/T4DWwvfx7BNWe6UKcR7jo2?node-id=0-1
 ---
 
 ## 📊 Task 3: UX Case Study
