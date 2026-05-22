@@ -12,8 +12,8 @@
 
 # 📱 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://www.linkedin.com/in/meet-darji-9a1b593b1?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://linkedin.com/)
+[![Instagram](https://www.instagram.com/mdx__76?igsh=MXQyMWxjanZpaXA0YQ==)](https://instagram.com/)
 
 ---
 
