@@ -36,7 +36,7 @@ Along with Figma links, this repository also includes screenshots, design previe
 Created the foundational structure and layout for a modern application interface. Focused on user flow, navigation clarity, and functionality before visual styling.
 
 - **Figma File:** View Task 1 Here
-- **Preview:** Low-fidelity wireframe screens included.
+-**Preview:https://www.figma.com/design/FMoJWEuDgALLEI6Z3GyGHb
 
 ---
 
