@@ -35,8 +35,8 @@ Along with Figma links, this repository also includes screenshots, design previe
 
 Created the foundational structure and layout for a modern application interface. Focused on user flow, navigation clarity, and functionality before visual styling.
 
-- **Figma File:** View Task 1 Here
-- **Preview:** https://www.figma.com/design/FMoJWEuDgALLEI6Z3GyGHb
+- **Figma File:** https://www.figma.com/proto/FMoJWEuDgALLEI6Z3GyGHb/Wireframe?node-id=102-2&p=f&t=J7wXcMrsRRTfc105-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+- **Preview:** Check the repository folders for static wireframe screenshots.
 
 ---
 
@@ -44,8 +44,8 @@ Created the foundational structure and layout for a modern application interface
 
 Converted the wireframes into polished high-fidelity screens with modern typography, attractive color palettes, spacing systems, and UI consistency.
 
-- **Figma File:** View Task 2 Here
-- **Preview:** https://www.figma.com/design/T4DWwvfx7BNWe6UKcR7jo2?node-id=0-1
+- **Figma File:** https://www.figma.com/proto/FMoJWEuDgALLEI6Z3GyGHb/Wireframe?node-id=102-2&p=f&t=J7wXcMrsRRTfc105-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+- **Preview:** Check the repository folders for static wireframe screenshots.
 ---
 
 ## 📊 Task 3: UX Case Study
