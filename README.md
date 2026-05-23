@@ -44,15 +44,15 @@ Created the foundational structure and layout for a modern application interface
 
 Converted the wireframes into polished high-fidelity screens with modern typography, attractive color palettes, spacing systems, and UI consistency.
 
-- **Figma File:** https://www.figma.com/proto/FMoJWEuDgALLEI6Z3GyGHb/Wireframe?node-id=102-2&p=f&t=J7wXcMrsRRTfc105-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+- **Figma File:** https://www.figma.com/proto/T4DWwvfx7BNWe6UKcR7jo2/DARJI-%E2%80%93-High-Fidelity-UI?node-id=3-2&starting-point-node-id=3%3A2&t=lDfQAb5T0qW15zUv-1
 - **Preview:** Check the repository folders for static wireframe screenshots.
 ---
 
 ## 📊 Task 3: UX Case Study
 
-Conducted complete UX analysis on an existing mobile application. Identified user pain points, improved usability, and proposed modern UI/UX solutions.
+Conducted a comprehensive UX audit of the Google Pay mobile payment app. Analyzed the user journey, identified frictional weaknesses (like dark patterns and visual clutter), and proposed 3 actionable high-fidelity design improvements.
 
-- **Report:** Detailed case study document included.
+- **Report:** Please see the attached .docx / .pdf file in this repository for the full 5-page case study and mockups.
 - **Research Focus:** User journey, usability, accessibility, and visual hierarchy.
 
 ---
